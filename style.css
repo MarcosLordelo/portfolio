@@ -34,8 +34,8 @@ body * {
 }
 #container {
   width: 100%;
-  max-width: 500px;
-  margin: 24px auto 0px;
+  max-width: 588px;
+  margin: 56px auto 0px;
   padding: 0 24px;
 }
 
@@ -43,7 +43,6 @@ body * {
 #profile {
   text-align: center;
   padding: 24px;
-  margin-top: 8px;
 }
 
 #profile img {
