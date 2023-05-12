@@ -68,7 +68,7 @@ div#container {}
 }
 
 .light #switch button {
-animation: slide-in 0.2s forwards;
+animation: slide-in 0.3s forwards;
 /* forwards mantém as propriedades finais do animation (@keyframes)*/
 }
 
@@ -85,7 +85,7 @@ animation: slide-in 0.2s forwards;
   border-radius: 50%;
 
   /* forwards mantém as propriedades finais do animation (@keyframes)*/
-  animation: slide-back 0.2s forwards;
+  animation: slide-back 0.3s forwards;
   
   /*Posicionando o botão - Position*/
   position: absolute;
